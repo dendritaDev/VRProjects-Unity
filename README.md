@@ -2,7 +2,7 @@
 ## Escape Room
 
 ## Beat Saber
-With EzySlice library https://github.com/DavidArayan/ezy-slice 
+With [EzySlice library](https://github.com/DavidArayan/ezy-slice).
 
 ## Shooter
 
